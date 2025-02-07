@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @nico-deforge, Python/Django freelance developer and Gemmici startup co-founder.
-- 👀 I’m interested in Python, Django, Rest API web develompent but Python automation, machine learning and Qt applications too !
-- 🌱 I’m currently learning Python machine learning libraries, Flask framework..
+- 👋 Hi, I’m @nico-deforge, Lead Tech Software Engineer at Ouihelp.
+- 👀 I’m interested in Python, Typescript Web development and AI tools !
+- 🌱 I’m currently learning Python machine learning libraries, LLM integrations tools such as Pydantic AI
+- 🤖 I think IA is the current most exciting new technology and I work to be part of it
 - 💞️ I’m looking to collaborate on Open Source projects and freelance missions.
 - ❤️ Passionate about new technologies, digital transformation and innovation, I practice Agile and Lean startup management.
 - 📫 You can contact nico.deforge@protonmail.com
