@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python machine learning libraries, Flask framework..
 - 💞️ I’m looking to collaborate on Open Source projects and freelance missions.
 - ❤️ Passionate about new technologies, digital transformation and innovation, I practice Agile and Lean startup management.
-- 📫 You can contact me@nicolasdeforge.io
+- 📫 You can contact nico.deforge@protonmail.com
 
 <!---
 nico-deforge/nico-deforge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
