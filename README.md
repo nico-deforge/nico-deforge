@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @nico-deforge, Lead Tech Software Engineer at Ouihelp.
-- 👀 I’m interested in Python, Typescript Web development and AI tools !
-- 🌱 I’m currently learning Python machine learning libraries, LLM integrations tools such as Pydantic AI
-- 🤖 I think IA is the current most exciting new technology and I work to be part of it
-- 💞️ I’m looking to collaborate on Open Source projects and freelance missions.
-- ❤️ Passionate about new technologies, digital transformation and innovation, I practice Agile and Lean startup management.
-- 📫 You can contact nico.deforge@protonmail.com
+- 👋 Hi, I’m @nico-deforge, Senior Software Engineer and Tech Lead at Ouihelp
+- 👀 I’m a backend engineer using Python every day and currently learning Rust
+- 🌱 Also digging into in Machine Learning Engineering and High Performance Computing techniques
+- 🤖 I think AI is the most exciting technology right now and I work to be part of it
+- 📫 nico.deforge@protonmail.com
 
 <!---
 nico-deforge/nico-deforge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
